@@ -1,0 +1,22 @@
+{
+  "name": "rakshithtb/acquia-solr-index-manager",
+  "type": "library",
+  "description": "Acquia Solr Index Manager.",
+  "license": "GPL-2.0+",
+  "authors":[
+    {
+      "name": "Rakshith T B",
+      "role": "Maintainer"
+    }
+  ],
+  "require": {
+    "drupal/acquia_search": "^3.0",
+    "drupal/acquia_connector": "^3.0"
+  },
+  "extra": {},
+  "autoload": {
+    "psr-4": {
+      "Acquia\\SolrIndexManager\\": "./src/"
+    }
+  }
+}
