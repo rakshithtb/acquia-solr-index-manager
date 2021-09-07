@@ -1,2 +1,2 @@
-# blt-solr-index-manager
-Acquia BLT Solr Index Manager
+# acquia-solr-index-manager
+Acquia Solr Index Manager
